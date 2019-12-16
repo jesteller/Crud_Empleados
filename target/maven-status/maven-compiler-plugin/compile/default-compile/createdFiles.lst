@@ -1,0 +1,15 @@
+com\opencodez\util\AppUtil.class
+com\opencodez\repo\UserRepository.class
+com\opencodez\domain\pagination\SortOrder.class
+com\opencodez\domain\pagination\DataTableColumnSpecs.class
+com\opencodez\domain\pagination\DataTableResults.class
+com\opencodez\domain\User.class
+com\opencodez\domain\pagination\PaginationCriteria.class
+com\opencodez\controllers\BaseController.class
+com\opencodez\repo\GenericRepoImpl.class
+com\opencodez\domain\pagination\FilterBy.class
+com\opencodez\repo\GenericRepo.class
+com\opencodez\domain\pagination\DataTableRequest.class
+com\opencodez\SpringBootDatatableApplication.class
+com\opencodez\domain\pagination\SortBy.class
+com\opencodez\domain\UserModel.class
